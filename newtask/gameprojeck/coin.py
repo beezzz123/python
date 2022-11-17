@@ -13,5 +13,5 @@ while True:
             print("поражение")
         print("текущий счёт" , pointwin , ":", pointlose )
     else:
-        print("выбери число 1 или 2")
+        print("только 1 или 2")
         break

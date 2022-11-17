@@ -10,7 +10,7 @@ lohi.pop(3)
 lohi.remove(12)
 print(lohi)
 banlist = ("loh","tima")
-
+# sam loh
 prices = {"loh":"stast","tima":"chepushila"}
 print(prices["loh"])
 
